@@ -22,4 +22,5 @@ class Duck implements Flyable, Swimmable {
         d.swim();
     }
 }
-//
+//duck flies
+//duck swims
