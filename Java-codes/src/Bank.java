@@ -1,3 +1,5 @@
+
+//Bank System Using Encapsulation
 class Account {
     private double balance = 0;
 
@@ -22,4 +24,4 @@ public class Bank {
         System.out.println("Balance: $" + acc.getBalance());
     }
 }
-//
+//output=$700
