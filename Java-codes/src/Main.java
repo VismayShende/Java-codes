@@ -23,3 +23,5 @@ public class Main {
         a2.sound();
     }
 }
+//Bark
+//Meow
